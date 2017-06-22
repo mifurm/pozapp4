@@ -1,0 +1,8 @@
+/home/mifurm/Documents/pozapp4/bin/Debug/netcoreapp1.1/pozapp4.deps.json
+/home/mifurm/Documents/pozapp4/bin/Debug/netcoreapp1.1/pozapp4.runtimeconfig.json
+/home/mifurm/Documents/pozapp4/bin/Debug/netcoreapp1.1/pozapp4.runtimeconfig.dev.json
+/home/mifurm/Documents/pozapp4/bin/Debug/netcoreapp1.1/pozapp4.dll
+/home/mifurm/Documents/pozapp4/bin/Debug/netcoreapp1.1/pozapp4.pdb
+/home/mifurm/Documents/pozapp4/obj/Debug/netcoreapp1.1/pozapp4.AssemblyInfo.cs
+/home/mifurm/Documents/pozapp4/obj/Debug/netcoreapp1.1/pozapp4.dll
+/home/mifurm/Documents/pozapp4/obj/Debug/netcoreapp1.1/pozapp4.pdb
